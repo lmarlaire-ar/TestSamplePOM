@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13085" started-at="2019-09-22T10:01:25 ART" finished-at="2019-09-22T10:01:39 ART">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13085" started-at="2019-09-22T10:01:25 ART" finished-at="2019-09-22T10:01:39 ART">
+      <class name="com.test.CreateCard_Test">
+        <test-method status="PASS" signature="loginTrelloInBrowser()[pri:0, instance:com.test.CreateCard_Test@57536d79]" name="loginTrelloInBrowser" duration-ms="7727" started-at="2019-09-22T10:01:25 ART" finished-at="2019-09-22T10:01:33 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTrelloInBrowser -->
+        <test-method status="PASS" signature="openFirstBoard()[pri:1, instance:com.test.CreateCard_Test@57536d79]" name="openFirstBoard" duration-ms="3459" started-at="2019-09-22T10:01:33 ART" finished-at="2019-09-22T10:01:37 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFirstBoard -->
+        <test-method status="PASS" signature="createCard()[pri:2, instance:com.test.CreateCard_Test@57536d79]" name="createCard" duration-ms="1106" started-at="2019-09-22T10:01:37 ART" finished-at="2019-09-22T10:01:38 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCard -->
+        <test-method status="PASS" signature="lastVerification()[pri:3, instance:com.test.CreateCard_Test@57536d79]" name="lastVerification" duration-ms="105" started-at="2019-09-22T10:01:38 ART" finished-at="2019-09-22T10:01:38 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastVerification -->
+        <test-method status="PASS" signature="closeWebBrowser()[pri:0, instance:com.test.CreateCard_Test@57536d79]" name="closeWebBrowser" is-config="true" duration-ms="649" started-at="2019-09-22T10:01:38 ART" finished-at="2019-09-22T10:01:39 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebBrowser -->
+      </class> <!-- com.test.CreateCard_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
